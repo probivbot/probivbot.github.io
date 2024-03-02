@@ -10,7 +10,7 @@ description: >-
 
 <figure><img src=".gitbook/assets/467a384ee2fb41ad93d5c28686d05600.jpeg" alt=""><figcaption></figcaption></figure>
 
-### [UsersBoxBot — один из лучших ботов пробива в Телеграм.](usersbox-moshnyi-tg-bot-probiva.md)
+### [UsersBox — один из лучших ботов пробива в Телеграм.](usersbox-moshnyi-tg-bot-probiva.md)
 
 UsersBoxBot - это сервис бот в Telegram, который помогает проверить утечки данных, связанных с вашими учетными записями в интернет-магазинах, социальных сетях и других онлайн-сервисах. Данный бот собирает информацию из баз данных, со…
 
