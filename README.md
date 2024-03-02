@@ -10,11 +10,9 @@ description: >-
 
 <figure><img src=".gitbook/assets/467a384ee2fb41ad93d5c28686d05600.jpeg" alt=""><figcaption></figcaption></figure>
 
-## [OSINT — Начало пути](osint-nachalo-puti.md)
+### [OSINT — Начало пути](osint-nachalo-puti.md)
 
 Мы попытаемся охватить основы, которые смогут дать общее понимание и базовые инструменты.
-
-
 
 ### [UsersBox — один из лучших ботов пробива в Телеграм.](usersbox-moshnyi-tg-bot-probiva.md)
 
