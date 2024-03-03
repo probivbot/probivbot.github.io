@@ -7,7 +7,7 @@
 * [Quick OSINT — есть все способы деанона в том числе и по фото.](quick-osint-est-vse-sposoby-deanona-v-tom-chisle-i-po-foto..md)
 * [UsersBox — мощный тг бот пробива](usersbox-moshnyi-tg-bot-probiva.md)
 * [Himera Search — лучшая альтернатива Глазу Бога](himera-search-luchshaya-alternativa-glazu-boga.md)
-* [Leak OSINT — новый многофункциональны бот деанона](leak-osint-novyi-mnogofunkcionalny-bot-deanona.md)
+* [Leak OSINT — новый многофункциональны бот деанона](leak-osint-novichok-no-ne-slabachek.md)
 * [Бесплатный бот Getcontact](besplatnyi-bot-getcontact.md)
 * [Zernerda bot — отличные возможности пробива.](zernerda-bot-otlichnye-vozmozhnosti-probiva..md)
 * [Автограм — "пробить" автомобиль и попутно заработать?!](avtogram-probit-avtomobil-i-poputno-zarabotat.md)
