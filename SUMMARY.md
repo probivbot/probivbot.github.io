@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👁️ PROBIVBOT](README.md)
+* [👁️ Телеграм боты для пробива](README.md)
 * [OSINT — Начало пути](osint-nachalo-puti.md)
 * [Как пробивать номер телефона с помощью телеграм бота](kak-probivat-nomer-telefona-s-pomoshyu-telegram-bota.md)
 * [LeakedInfoBot — лучший бот для поиска слитой информации.](leakedinfobot-luchshii-bot-dlya-poiska-slitoi-informacii..md)
@@ -8,7 +8,7 @@
 * [UsersBox — мощный тг бот пробива](usersbox-moshnyi-tg-bot-probiva.md)
 * [Himera Search — лучшая альтернатива Глазу Бога](himera-search-luchshaya-alternativa-glazu-boga.md)
 * [Leak OSINT — новичок но не слабачек!](leak-osint-novichok-no-ne-slabachek.md)
-* [Как пробить номер телефона — реально бесплатный бот Getcontact](kak-probit-nomer-telefona-realno-besplatnyi-bot-getcontact.md)
+* [Бесплатный бот Getcontact](besplatnyi-bot-getcontact.md)
 * [Zernerda bot — отличные возможности пробива.](zernerda-bot-otlichnye-vozmozhnosti-probiva..md)
 * [Автограм — "пробить" автомобиль и попутно заработать?!](avtogram-probit-avtomobil-i-poputno-zarabotat.md)
 * [АРХАНГЕЛ БОТ — кто такой?](arkhangel-bot-kto-takoi.md)
