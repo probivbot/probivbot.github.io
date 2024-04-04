@@ -4,7 +4,7 @@ description: >-
   инструменты.
 ---
 
-# OSINT — Начало пути
+# 🔍 OSINT — Начало пути
 
 <figure><img src=".gitbook/assets/osint.jpg" alt=""><figcaption></figcaption></figure>
 
