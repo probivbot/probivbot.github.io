@@ -11,7 +11,7 @@
 * [Бесплатный бот Getcontact](besplatnyi-bot-getcontact.md)
 * [Zernerda bot — отличные возможности пробива.](zernerda-bot-otlichnye-vozmozhnosti-probiva..md)
 * [Автограм — "пробить" автомобиль и попутно заработать?!](avtogram-probit-avtomobil-i-poputno-zarabotat.md)
-* [АРХАНГЕЛ БОТ — кто такой?](arkhangel-bot-kto-takoi.md)
+* [👼 АРХАНГЕЛ БОТ — кто такой?](arkhangel-bot-kto-takoi.md)
 * [SOVA Bot🦉— мощный, модульный, бесплатный OSINT бот.](sova-bot-moshnyi-modulnyi-besplatnyi-osint-bot..md)
 * [AgentFNS\_Bot — пробей бизнес партнера, узнай все его "грязные секретики"](agentfns\_bot-probei-biznes-partnera-uznai-vse-ego-gryaznye-sekretiki.md)
 * [Как пользоваться ботами телеграм для пробива Глаз Бога, LeakedInfo, Quick OSINT](kak-polzovatsya-botami-telegram-dlya-probiva-glaz-boga-leakedinfo-quick-osint.md)
