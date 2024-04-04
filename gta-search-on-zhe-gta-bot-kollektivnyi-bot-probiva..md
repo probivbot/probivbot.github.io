@@ -1,4 +1,4 @@
-# GTA Search он же GTA bot — коллективный бот пробива.
+# 🚘 GTA Search он же GTA bot — коллективный бот пробива.
 
 <figure><img src=".gitbook/assets/GTA.png" alt=""><figcaption></figcaption></figure>
 
