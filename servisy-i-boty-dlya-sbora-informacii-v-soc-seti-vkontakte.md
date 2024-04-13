@@ -210,7 +210,11 @@ pip install toutatis==1.3
 
 Далее заходим на [сайт](https://region-operator.ru/) с диапазонами мобильных номеров того города который указан на целевом аккаунте и сверяем оператора и первые 6 цифр чтобы узнать какой номер нам нужен.
 
+<div align="center">
+
 <figure><img src=".gitbook/assets/image-33.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Выбираем интересующий нас город.
 
