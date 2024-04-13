@@ -19,28 +19,28 @@ description: >-
 
 Как бы банально это не было, но идентификатор можно спокойно получить через того же [Leakedinfobot](leakedinfobot-luchshii-bot-dlya-poiska-slitoi-informacii..md), нужно лишь только ввести никнейм и выбрать телеграм.
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image.png" alt="" height="679" width="804"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### **Официальный клиент Telegram на ПК**
 
 Ещё один простейший способ – это при помощи клиента Telegram на ПК.\
 Для этого заходим в настройки –> Продвинутые настройки –> Экспериментальные настройки –> Show Peer IDs in Profile.
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-1.png" alt="" height="705" width="804"><figcaption></figcaption></figure>
-
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-2.png" alt="" height="653" width="389"><figcaption></figcaption></figure>
-
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-3.png" alt="" height="653" width="389"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image-1.png" alt=""><figcaption></figcaption></figure>
 
 Теперь у каждого пользователя в профиле мы можем сразу же увидеть его id.
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-4.png" alt="" height="336" width="389"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image-2.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image-3.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image-4.png" alt=""><figcaption></figcaption></figure>
 
 ### **BGram Android**
 
 Модификация клиента Telegram для Android в которой уже встроена эта функция по умолчанию.
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-5-485x1024.png" alt="" height="1024" width="485"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image-5-485x1024.png" alt=""><figcaption></figcaption></figure>
 
 ## **Этап 2**
 
@@ -50,7 +50,7 @@ description: >-
 
 При помощи [всеми известного бота](leakedinfobot-luchshii-bot-dlya-poiska-slitoi-informacii..md) можно выяснить в цело репутацию аккаунта (была ли какая-либо информация в утечках).
 
-<figure><img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/86e/5fb/32e/86e5fb32e00b62f66f506ea5014bedda.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
 Как можем наблюдать, аккаунт уже весьма поживший и базах имеется номер телефона, эта информация нам очень пригодится для условно бесплатных ботов.
 
@@ -58,7 +58,7 @@ description: >-
 
 На мой скромный взгляд, является одним из лучших условно-бесплатных ботов для разведки телеграм аккаунтов. Определяет хобби владельца, возможное местоположение и много-много чего интересного, один из ярких примеров вы можете наблюдать снизу.
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-6.png" alt="" height="658" width="655"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
 
 Для сбора общего портрета о человеке, вполне хороший бот. Валюту для поиска довольно просто получить, бот сам время от времени будет давать тебе понемногу валюты на счёт, опять же всё зависит от того, как часто ты им пользуешься и сколько у тебя аккаунтов.
 
@@ -66,13 +66,13 @@ description: >-
 
 [Ещё один классный бот](https://t.me/funstatbot) для сбора общей информации о пользователе, как и предыдущий бот он собирает интересы пользователя исходя из сообществ в которых он состоит. Может выдать прошлые имена аккаунта, ещё что очень интересно, так это сообщения пользователя в публичных чатах даже если они были удалены пользователем ранее.
 
-<figure><img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/594/3b6/1c7/5943b61c71dd7be24be167f7438ab7de.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
 
 Здесь нас приветствует множество пунктов после того как мы ввели id целевого аккаунта, давайте рассмотрим все пункты которые нам доступны. Но вначале радоваться не стоит, так как все пункты открываются за валюту бота “кристаллы знаний”. Этой валютой бот делится щедро с вами при первом заходе в бота, и дарит он вам аж целых 20 кристаллов. Валюта может копиться и сама по себе в небольших объёмах.
 
 Первый пункт – это профиль, в нём нам предоставлена информация о том, насколько в целом активен аккаунт, а исходя из этого уже можно сделать вывод о том, основной это аккаунт или нет. Плюс может быть дополнительные имена/теги, а значит и новые никнеймы по которым можно с нуля также начать поиск.
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-7.png" alt="" height="536" width="572"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
 
 В пункте “Знакомые” мы можем наблюдать кому пользователь чаще всего отвечает, в публичных чатах разумеется, и логически выяснив с кем пользователь знаком.
 
