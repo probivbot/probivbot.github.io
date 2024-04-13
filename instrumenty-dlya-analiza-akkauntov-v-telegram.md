@@ -76,9 +76,9 @@ description: >-
 
 В пункте “Знакомые” мы можем наблюдать кому пользователь чаще всего отвечает, в публичных чатах разумеется, и логически выяснив с кем пользователь знаком.
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-8.png" alt="" height="323" width="570"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-9.png" alt="" height="113" width="570"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image-9.png" alt=""><figcaption></figcaption></figure>
 
 В пункте “анализ” бот анализирует содержимое сообщений и исходя из этого содержимого делает предположения о симпатиях, возрасте, номере телефона и прочем. Правда где-то местами некорректно выводит, например за “возраст” он посчитал вот это сообщение.
 
@@ -86,7 +86,7 @@ description: >-
 
 Пункт “Чаты” мне очень нравится, т.к в нём максимально подробно показано в каких чатах состоит/состоял пользователь.
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-11.png" alt="" height="340" width="596"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image-11.png" alt=""><figcaption></figcaption></figure>
 
 Очень подробный пункт “Сообщения”, в котором мы будто во вложениях чата Вконтакте можем посмотреть картинки, видео, ссылки и прочие виды сообщений которые присылал пользователь, или же можем просто посмотреть их все.
 
@@ -94,7 +94,7 @@ description: >-
 
 Теги, имена пользователя, тоже могут быть крайне полезны.
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-13.png" alt="" height="350" width="596"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image-13.png" alt=""><figcaption></figcaption></figure>
 
 Очень любопытной функцией является слежка за пользователем и за его активностью в сети, бывает полезно.
 
@@ -102,7 +102,7 @@ description: >-
 
 Ещё один бот, который определит в каких беседах состоит пользователь. Особо добавить мне нечего, т.к его я использую чтобы попробовать извлечь какую-то возможную новую информацию.
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-14.png" alt="" height="387" width="596"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image-14.png" alt=""><figcaption></figcaption></figure>
 
 ## **Этап 3**
 
@@ -114,7 +114,7 @@ description: >-
 
 [Полностью бесплатный бот](https://t.me/TgAnalystbot), у которого небольшая база данных телеграм-аккаунтов и весьма редко может выдать что-то толковое, но иногда может повести.
 
-<figure><img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/aa7/f0f/a46/aa7f0fa46b40df4c1d71268ea69a8833.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/15.png" alt=""><figcaption></figcaption></figure>
 
 У этого бота весьма специфичный способ пополнения базы данных, при помощи ботов-ловушек. Актуальный их список к сожалению предоставить не смогу, но найти на нескольких тематических канал думаю не составит труда.
 
@@ -122,7 +122,7 @@ description: >-
 
 Ну и на десерт ещё [один замечательный и функциональный бот](https://t.me/unamer\_bot), который может выдать и историю имени аккаунта и с некоторой вероятностью номер телефона. К сожалению на внутреннюю валюту не такой щедрый как предыдущие боты, но и не тратит валюту в случае если информации не нашёл. Если рассматривать бесплатный вариант пользования, то он одноразовый, или жди несколько веков если тебе капнет что-то бонусом. Если же рассматривать платный вариант, то 11 токенов будут приравнены к 10$, что на момент написания статьи составляет около 930р.
 
-<figure><img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/0b2/7ef/9a3/0b27ef9a34f23cd81c260ad64bdf4dcd.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/16.png" alt=""><figcaption></figcaption></figure>
 
 ### **Заключение**
 
