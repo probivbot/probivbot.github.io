@@ -2,6 +2,7 @@
 
 * [👁️ Боты тг для пробива и докса](README.md)
 * [🇸🇴 Сервисы и боты для сбора информации в соц-сети ВКонтакте](servisy-i-boty-dlya-sbora-informacii-v-soc-seti-vkontakte.md)
+* [📲 Инструменты для анализа аккаунтов в Телеграм](instrumenty-dlya-analiza-akkauntov-v-telegram.md)
 * [🔍 OSINT — Начало пути](osint-nachalo-puti.md)
 * [📱 Как пробивать номер телефона с помощью телеграм бота](kak-probivat-nomer-telefona-s-pomoshyu-telegram-bota.md)
 * [🦋 LeakedInfoBot — лучший бот для поиска слитой информации.](leakedinfobot-luchshii-bot-dlya-poiska-slitoi-informacii..md)
