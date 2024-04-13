@@ -23,7 +23,11 @@ description: >-
 
 Как бы банально это не было, но идентификатор можно спокойно получить через того же [Leakedinfobot](leakedinfobot-luchshii-bot-dlya-poiska-slitoi-informacii..md), нужно лишь только ввести никнейм и выбрать телеграм.
 
+<div align="center">
+
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### **Официальный клиент Telegram на ПК**
 
@@ -146,7 +150,11 @@ description: >-
 
 Очень подробный пункт “Сообщения”, в котором мы будто во вложениях чата Вконтакте можем посмотреть картинки, видео, ссылки и прочие виды сообщений которые присылал пользователь, или же можем просто посмотреть их все.
 
+<div align="center">
+
 <figure><img src=".gitbook/assets/image-12.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Теги, имена пользователя, тоже могут быть крайне полезны.
 
