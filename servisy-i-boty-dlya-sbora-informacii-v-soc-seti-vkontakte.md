@@ -64,21 +64,37 @@ description: >-
 
 </div>
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-20.png" alt="" height="601" width="646"><figcaption></figcaption></figure>
+<div align="center">
+
+<figure><img src=".gitbook/assets/image-20.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Единственное что лично мне малость пригодилось в этом приложении по OSINT, так это пункт “Знакомства через рукопожатия”.
 
-<figure><img src=".gitbook/assets/7 (1).png" alt=""><figcaption></figcaption></figure>
+<div align="center">
+
+<figure><img src=".gitbook/assets/image-21.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Полезен этот пункт мне был в такой ситуации: “допустим ты не совсем общительный человек и других людей к себе в жизнь не намерен пускать просто так. Вот к тебе в друзья добавляется рандомная личность и ты не понимаешь кто это и откуда. Открываешь это приложение и заходишь в этот пункт и видишь, что этот человек знает тебя через твоих знакомых и что всё в порядке.
 
+<div align="center">
+
 <figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-22.png" alt="" height="546" width="561"><figcaption></figcaption></figure>
+
+</div>
 
 **3D Social Graph**
 
 Ну и так чисто если заняться нечем и прикола ради, можно попробовать вычислить так скажем определённые группы людей в которых состоит пользователь.
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-23.png" alt="" height="386" width="788"><figcaption></figcaption></figure>
+<div align="center">
+
+<figure><img src=".gitbook/assets/image-23.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 У приложения очень простенький интерфейс и разобраться в нём не составляет большой сложности. Как видим на примере сверху, у целевого пользователя в основном две крупные группы людей, которых кстати связывает всего один человек. Таким образом мы можем наблюдать и одиночных людей которые ни с кем не связаны.
 
@@ -88,7 +104,11 @@ description: >-
 
 Ну что же, переходим на уровень сложнее. В данном случае страница целевого пользователя закрыта, а добавляться в друзья будет не совсем корректно со стороны разведки, со стороны социальной инженерии ещё приемлемо, но в этой статье нас интересует именно OSINT.
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-24.png" alt="" height="530" width="926"><figcaption></figcaption></figure>
+<div align="center">
+
+<figure><img src=".gitbook/assets/image-24.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **VKHistoryRobot**
 
