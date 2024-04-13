@@ -82,7 +82,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-22.png" alt="" height="546" width="561"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image-22.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -114,11 +114,19 @@ description: >-
 
 Теперь прошу вспомнить важную заповедь о том, что “Интернет помнит всё”, поэтому заходим в один замечательный телеграм-бот и вписываем ссылку на интересующего нас человека, после чего узнаём историю его профиля, чем давнее профиль, соответственно тем больше шанс найти интересующую нас информацию.
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-25.png" alt="" height="530" width="926"><figcaption></figcaption></figure>
+<div align="center">
+
+<figure><img src=".gitbook/assets/image-25.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Как можем наблюдать, такой вариант развития событий вполне возможен и вам может повести с первого раза. Но чаще разумеется бывают случаи, когда номер частично скрыт. Эти варианты тоже разберём, возьмём такой вот пример:
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-26.png" alt="" height="414" width="926"><figcaption></figcaption></figure>
+<div align="center">
+
+<figure><img src=".gitbook/assets/image-26.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Как видим, здесь у нас скрыто всего 4 последние цифры и с таким раскладом на самом деле ещё можно что-то растолковать.
 
@@ -136,13 +144,21 @@ pip install toutatis==1.3
 
 Для работы кода, нам потребуется ID сессии в Instagram, заходим разумеется лучше в левый аккаунт, нажимаем F12 и ниже будет представлен пример откуда брать sessionid
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-27-1024x173.png" alt="" height="173" width="1024"><figcaption></figcaption></figure>
+<div align="center">
+
+<figure><img src=".gitbook/assets/image-27-1024x173.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Копируем и вставляем в команду для запуска:
 
 `toutatis -u username -s instagramsessionid`
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image.jpeg" alt="" height="268" width="539"><figcaption></figcaption></figure>
+<div align="center">
+
+<figure><img src=".gitbook/assets/image.jpeg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Вот для чего нам и нужен был этот инструмент, для того чтобы узнать последние две цифры номера, аккаунт в Instagram мы разумеется должны были узнать раньше, подробней об этом в прошлой статье.
 
@@ -150,15 +166,27 @@ pip install toutatis==1.3
 
 А теперь рассмотрим последний вот такой вариант:
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-28.png" alt="" height="221" width="716"><figcaption></figcaption></figure>
+<div align="center">
+
+<figure><img src=".gitbook/assets/image-28.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Отправляемся в [LeakedInfoBot](leakedinfobot-luchshii-bot-dlya-poiska-slitoi-informacii..md), нынче их столько “расплодилось” что практически каждый второй бот это LeakedInfoBot. Все они работают разумеется одинокого и у всех одна база данных, чтобы в этом убедиться, просто зайдите в свою [учётную запись](leakedinfobot-luchshii-bot-dlya-poiska-slitoi-informacii..md) и узнайте насколько давно вы в “новом боте”.
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-29.png" alt="" height="599" width="725"><figcaption></figcaption></figure>
+<div align="center">
+
+<figure><img src=".gitbook/assets/image-29.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Ну а теперь просто вводим имя и фамилию человека и после чего видим и сверяем первые 6 цифр номера. Разумеется это всё делается в условно-бесплатной версии бота, а если у вас платная версия, то вам и эти способы знать не обязательно. Я не хочу лишний раз платить за то, с чем могу справиться и сам.
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-30.png" alt="" height="330" width="805"><figcaption></figcaption></figure>
+<div align="center">
+
+<figure><img src=".gitbook/assets/image-30.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Если первые цифры номера совпадают, то переходим к toutatis.
 
