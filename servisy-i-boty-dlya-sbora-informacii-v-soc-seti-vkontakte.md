@@ -194,15 +194,23 @@ pip install toutatis==1.3
 
 Представим что это такой же закрытый профиль, мы суём его в VKHistoryRobot, но результат нас печалит, а сам пользователь чист как слеза младенца.
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-31.png" alt="" height="586" width="805"><figcaption></figcaption></figure>
+<div align="center">
+
+<figure><img src=".gitbook/assets/image-31.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 В этом варианте нам потребуется запомнить город и фамилию с именем нашего целевого аккаунта. Переходим в Глаз Бога, вводим фамилию и имя и нам выпадает результат скрытых номеров.
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-32.png" alt="" height="330" width="805"><figcaption></figcaption></figure>
+<div align="center">
+
+<figure><img src=".gitbook/assets/image-32.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Далее заходим на [сайт](https://region-operator.ru/) с диапазонами мобильных номеров того города который указан на целевом аккаунте и сверяем оператора и первые 6 цифр чтобы узнать какой номер нам нужен.
 
-<figure><img src="https://gebutcher.com/wp-content/uploads/2024/04/image-33.png" alt="" height="586" width="805"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image-33.png" alt=""><figcaption></figcaption></figure>
 
 Выбираем интересующий нас город.
 
