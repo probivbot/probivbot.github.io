@@ -2,8 +2,9 @@
 
 * [👁️ Боты тг для пробива и докса](README.md)
 * [🔍 OSINT — Начало пути](osint-nachalo-puti.md)
-* [📱 Как пробивать номер телефона с помощью телеграм бота](kak-probivat-nomer-telefona-s-pomoshyu-telegram-bota.md)
+* [🤳 Инструменты для анализа аккаунтов в Телеграм](instrumenty-dlya-analiza-akkauntov-v-telegram.md)
 * [🦋 LeakedInfoBot — лучший бот для поиска слитой информации.](leakedinfobot-luchshii-bot-dlya-poiska-slitoi-informacii..md)
+* [📱 Как пробивать номер телефона с помощью телеграм бота](kak-probivat-nomer-telefona-s-pomoshyu-telegram-bota.md)
 * [⭕ Quick OSINT — есть все способы деанона в том числе и по фото.](quick-osint-est-vse-sposoby-deanona-v-tom-chisle-i-po-foto..md)
 * [☑️ UsersBox — мощный тг бот пробива](usersbox-moshnyi-tg-bot-probiva.md)
 * [🌐 Himera Search — лучшая альтернатива Глазу Бога](himera-search-luchshaya-alternativa-glazu-boga.md)
@@ -11,7 +12,6 @@
 * [☎️ Бесплатный бот Getcontact](besplatnyi-bot-getcontact.md)
 * [🤖 Zernerda bot — отличные возможности пробива.](zernerda-bot-otlichnye-vozmozhnosti-probiva..md)
 * [🇸🇴 Сервисы и боты для сбора информации в соц-сети ВКонтакте](servisy-i-boty-dlya-sbora-informacii-v-soc-seti-vkontakte.md)
-* [📲 Инструменты для анализа аккаунтов в Телеграм](instrumenty-dlya-analiza-akkauntov-v-telegram.md)
 * [🚗 Автограм — "пробить" автомобиль и попутно заработать?!](avtogram-probit-avtomobil-i-poputno-zarabotat.md)
 * [👼 АРХАНГЕЛ БОТ — кто такой?](arkhangel-bot-kto-takoi.md)
 * [🦉 SOVA Bot— мощный, модульный, бесплатный OSINT бот.](sova-bot-moshnyi-modulnyi-besplatnyi-osint-bot..md)
