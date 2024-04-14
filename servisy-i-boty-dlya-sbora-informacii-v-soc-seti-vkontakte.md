@@ -172,7 +172,7 @@ pip install toutatis==1.3
 
 </div>
 
-Отправляемся в [LeakedInfoBot](leakedinfobot-luchshii-bot-dlya-poiska-slitoi-informacii..md), нынче их столько “расплодилось” что практически каждый второй бот это LeakedInfoBot. Все они работают разумеется одинокого и у всех одна база данных, чтобы в этом убедиться, просто зайдите в свою [учётную запись](leakedinfobot-luchshii-bot-dlya-poiska-slitoi-informacii..md) и узнайте насколько давно вы в “новом боте”.
+Отправляемся в [LeakedInfoBot](readme/leakedinfobot-luchshii-bot-dlya-poiska-slitoi-informacii..md), нынче их столько “расплодилось” что практически каждый второй бот это LeakedInfoBot. Все они работают разумеется одинокого и у всех одна база данных, чтобы в этом убедиться, просто зайдите в свою [учётную запись](readme/leakedinfobot-luchshii-bot-dlya-poiska-slitoi-informacii..md) и узнайте насколько давно вы в “новом боте”.
 
 <div align="center">
 

@@ -1,9 +1,9 @@
 # Table of contents
 
 * [👁️ Боты тг для пробива и докса](README.md)
-* [🔍 OSINT — Начало пути](osint-nachalo-puti.md)
-* [🤳 Инструменты для анализа аккаунтов в Телеграм](instrumenty-dlya-analiza-akkauntov-v-telegram.md)
-* [🦋 LeakedInfoBot — лучший бот для поиска слитой информации.](leakedinfobot-luchshii-bot-dlya-poiska-slitoi-informacii..md)
+  * [🦋 LeakedInfoBot — лучший бот для поиска слитой информации.](readme/leakedinfobot-luchshii-bot-dlya-poiska-slitoi-informacii..md)
+* [🔍 OSINT — Начало пути](osint-nachalo-puti/README.md)
+  * [🤳 Инструменты для анализа аккаунтов в Телеграм](osint-nachalo-puti/instrumenty-dlya-analiza-akkauntov-v-telegram.md)
 * [📱 Как пробивать номер телефона с помощью телеграм бота](kak-probivat-nomer-telefona-s-pomoshyu-telegram-bota.md)
 * [⭕ Quick OSINT — есть все способы деанона в том числе и по фото.](quick-osint-est-vse-sposoby-deanona-v-tom-chisle-i-po-foto..md)
 * [☑️ UsersBox — мощный тг бот пробива](usersbox-moshnyi-tg-bot-probiva.md)
@@ -19,6 +19,7 @@
 * [📄 Как пользоваться ботами телеграм для пробива Глаз Бога, LeakedInfo, Quick OSINT](kak-polzovatsya-botami-telegram-dlya-probiva-glaz-boga-leakedinfo-quick-osint.md)
 * [🚘 GTA Search он же GTA bot — коллективный бот пробива.](gta-search-on-zhe-gta-bot-kollektivnyi-bot-probiva..md)
 * [❔ Maigret OSINT bot — бот ТГ который найдет вас по нику.](maigret-osint-bot-bot-tg-kotoryi-naidet-vas-po-niku..md)
-* [👀 Краткое описание возможностей ботов "пробива"](kratkoe-opisanie-vozmozhnostei-botov-probiva.md)
-* [☠️ Пробить человека — что это значит?](probit-cheloveka-chto-eto-znachit.md)
+* [👀 Краткое описание возможностей ботов "пробива"](kratkoe-opisanie-vozmozhnostei-botov-probiva/README.md)
+  * [☠️ Пробить человека — что это значит?](kratkoe-opisanie-vozmozhnostei-botov-probiva/probit-cheloveka-chto-eto-znachit.md)
+  * [Page 1](kratkoe-opisanie-vozmozhnostei-botov-probiva/page-1.md)
 * [🦄 Search Universe Bot — ваш незаменимый помощник в поиске информации.](search-universe-bot-vash-nezamenimyi-pomoshnik-v-poiske-informacii..md)

@@ -9,7 +9,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/brave_PXq6PN7EOB.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/brave_PXq6PN7EOB.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -21,11 +21,11 @@ description: >-
 
 ### **При помощи бота**
 
-Как бы банально это не было, но идентификатор можно спокойно получить через того же [Leakedinfobot](leakedinfobot-luchshii-bot-dlya-poiska-slitoi-informacii..md), нужно лишь только ввести никнейм и выбрать телеграм.
+Как бы банально это не было, но идентификатор можно спокойно получить через того же [Leakedinfobot](../readme/leakedinfobot-luchshii-bot-dlya-poiska-slitoi-informacii..md), нужно лишь только ввести никнейм и выбрать телеграм.
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -36,7 +36,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -44,19 +44,19 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-3.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-4.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -66,7 +66,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-5-485x1024.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-5-485x1024.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -76,11 +76,11 @@ description: >-
 
 ### **Leakedinfobot**
 
-При помощи [всеми известного бота](leakedinfobot-luchshii-bot-dlya-poiska-slitoi-informacii..md) можно выяснить в цело репутацию аккаунта (была ли какая-либо информация в утечках).
+При помощи [всеми известного бота](../readme/leakedinfobot-luchshii-bot-dlya-poiska-slitoi-informacii..md) можно выяснить в цело репутацию аккаунта (была ли какая-либо информация в утечках).
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -92,7 +92,7 @@ description: >-
 
 <div align="center" data-full-width="false">
 
-<figure><img src=".gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -104,7 +104,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -114,7 +114,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -122,13 +122,13 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/10.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-9.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -136,7 +136,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-10.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -144,7 +144,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-11.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -152,7 +152,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-12.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -160,7 +160,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-13.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -172,7 +172,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-14.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -188,7 +188,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/15.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -200,7 +200,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/16.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

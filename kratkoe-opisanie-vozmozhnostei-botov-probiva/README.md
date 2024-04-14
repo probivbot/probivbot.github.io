@@ -24,4 +24,4 @@
 
 Эти боты помогают находить разнообразную информацию о пользователях, и каждый из них может специализироваться на определенных типах данных или источниках.
 
-<figure><img src=".gitbook/assets/modern-backgraund-msi-laptop-gaming-laptop--neon-ambiance-abstract-black-oil-gear-mecha-detai-996192205.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/modern-backgraund-msi-laptop-gaming-laptop--neon-ambiance-abstract-black-oil-gear-mecha-detai-996192205.png" alt=""><figcaption></figcaption></figure>

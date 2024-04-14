@@ -6,4 +6,4 @@ LeakedInfoBot является российской платформой, спе
 
 <mark style="color:yellow;">Стоит помнить, что получение персональной информации без согласия человека может повлечь за собой уголовную ответственность. Поэтому использование таких ботов должно быть осуществлено в соответствии с законодательством вашей страны и при соблюдении прав и свобод других людей.</mark>
 
-<figure><img src=".gitbook/assets/leak2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/leak2.jpg" alt=""><figcaption></figcaption></figure>
