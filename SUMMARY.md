@@ -20,6 +20,5 @@
   * [📱 Как пробивать номер телефона с помощью телеграм бота](osint-nachalo-puti/kak-probivat-nomer-telefona-s-pomoshyu-telegram-bota.md)
   * [🇸🇴 Сервисы и боты для сбора информации в соц-сети ВКонтакте](osint-nachalo-puti/servisy-i-boty-dlya-sbora-informacii-v-soc-seti-vkontakte.md)
   * [📄 Как пользоваться ботами телеграм для пробива Глаз Бога, LeakedInfo, Quick OSINT](osint-nachalo-puti/kak-polzovatsya-botami-telegram-dlya-probiva-glaz-boga-leakedinfo-quick-osint.md)
-  * [👀 Краткое описание возможностей ботов "пробива"](osint-nachalo-puti/kratkoe-opisanie-vozmozhnostei-botov-probiva/README.md)
-    * [☠️ Пробить человека — что это значит?](osint-nachalo-puti/kratkoe-opisanie-vozmozhnostei-botov-probiva/probit-cheloveka-chto-eto-znachit.md)
-    * [Page 1](osint-nachalo-puti/kratkoe-opisanie-vozmozhnostei-botov-probiva/page-1.md)
+  * [☠️ Пробить человека — что это значит?](osint-nachalo-puti/probit-cheloveka-chto-eto-znachit.md)
+  * [👀 Краткое описание возможностей ботов "пробива"](osint-nachalo-puti/kratkoe-opisanie-vozmozhnostei-botov-probiva.md)
