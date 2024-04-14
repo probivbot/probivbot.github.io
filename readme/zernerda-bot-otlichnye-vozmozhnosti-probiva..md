@@ -6,4 +6,4 @@
 
 Если вы отправите стикер или кастомный эмодзи, бот найдет создателя набора. Но помните, что использование "OSINT ботов" в незаконных целях карается законом, поэтому используйте его только в законных целях.
 
-<figure><img src=".gitbook/assets/ze.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ze.jpg" alt=""><figcaption></figcaption></figure>

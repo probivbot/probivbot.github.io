@@ -12,5 +12,5 @@
 
 Так что не тратьте время на поиск информации в разных источниках, а доверьтесь Search Universe Bot - он найдет все, что вам нужно.
 
-<figure><img src=".gitbook/assets/u.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/u.jpg" alt=""><figcaption></figcaption></figure>
 

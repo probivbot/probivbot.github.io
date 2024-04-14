@@ -8,7 +8,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/vk2.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vk2.jpeg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -22,7 +22,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-15.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -34,7 +34,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-16.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -42,13 +42,13 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/3.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3.webp" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -60,13 +60,13 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-20.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -74,7 +74,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-21.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -82,7 +82,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-22.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -92,7 +92,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-23.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -106,7 +106,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-24.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -116,7 +116,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-25.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -124,7 +124,7 @@ description: >-
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-26.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -146,7 +146,7 @@ pip install toutatis==1.3
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-27-1024x173.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-27-1024x173.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -156,7 +156,7 @@ pip install toutatis==1.3
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.jpeg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -168,15 +168,15 @@ pip install toutatis==1.3
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-28.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-Отправляемся в [LeakedInfoBot](readme/leakedinfobot-luchshii-bot-dlya-poiska-slitoi-informacii..md), нынче их столько “расплодилось” что практически каждый второй бот это LeakedInfoBot. Все они работают разумеется одинокого и у всех одна база данных, чтобы в этом убедиться, просто зайдите в свою [учётную запись](readme/leakedinfobot-luchshii-bot-dlya-poiska-slitoi-informacii..md) и узнайте насколько давно вы в “новом боте”.
+Отправляемся в [LeakedInfoBot](../readme/leakedinfobot-luchshii-bot-dlya-poiska-slitoi-informacii..md), нынче их столько “расплодилось” что практически каждый второй бот это LeakedInfoBot. Все они работают разумеется одинокого и у всех одна база данных, чтобы в этом убедиться, просто зайдите в свою [учётную запись](../readme/leakedinfobot-luchshii-bot-dlya-poiska-slitoi-informacii..md) и узнайте насколько давно вы в “новом боте”.
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-29.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -184,7 +184,7 @@ pip install toutatis==1.3
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-30.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -196,7 +196,7 @@ pip install toutatis==1.3
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-31.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -204,7 +204,7 @@ pip install toutatis==1.3
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-32.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -212,7 +212,7 @@ pip install toutatis==1.3
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/image-33.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image-33.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -220,7 +220,7 @@ pip install toutatis==1.3
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/25.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -228,7 +228,7 @@ pip install toutatis==1.3
 
 <div align="center">
 
-<figure><img src=".gitbook/assets/26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/26.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

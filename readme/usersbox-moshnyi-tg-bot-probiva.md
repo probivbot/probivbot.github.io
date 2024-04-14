@@ -6,4 +6,4 @@
 
 Проверка утечек данных и регулярная смена паролей может предотвратить утечку ваших учетных записей и защитить вашу личную информацию от злоумышленников.
 
-<figure><img src=".gitbook/assets/us (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/us (1).jpg" alt=""><figcaption></figcaption></figure>

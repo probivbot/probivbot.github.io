@@ -13,4 +13,4 @@ description: >-
 
 Независимо от того, ищете ли вы информацию для личных целей или нуждаетесь в ней для работы, АРХАНГЕЛ Bot является надежным и полезным инструментом для поиска информации.
 
-<figure><img src=".gitbook/assets/ar.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ar.png" alt=""><figcaption></figcaption></figure>

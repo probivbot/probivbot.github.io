@@ -10,4 +10,4 @@
 Сервис:\
 [avtogram.org](http://avtogram.org/)
 
-<figure><img src=".gitbook/assets/auto.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/auto.webp" alt=""><figcaption></figcaption></figure>

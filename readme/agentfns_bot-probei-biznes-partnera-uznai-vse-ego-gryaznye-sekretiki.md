@@ -6,4 +6,4 @@
 
 _Не теряйте время на ручные проверки контрагентов - доверьтесь_ [_AgentFNS\_Bot_](https://t.me/AgentFNS\_bot)_._
 
-<figure><img src=".gitbook/assets/A gangster with cybernetics and glowing eyes..jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/A gangster with cybernetics and glowing eyes..jpg" alt=""><figcaption></figcaption></figure>
