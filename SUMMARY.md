@@ -15,7 +15,7 @@
   * [👁️‍🗨️ AgentFNS\_Bot — пробей бизнес партнера, узнай все его "грязные секретики"](readme/agentfns\_bot-probei-biznes-partnera-uznai-vse-ego-gryaznye-sekretiki.md)
   * [👼 АРХАНГЕЛ БОТ — кто такой?](readme/arkhangel-bot-kto-takoi.md)
   * [❔ Maigret OSINT bot — бот ТГ который найдет вас по нику.](readme/maigret-osint-bot-bot-tg-kotoryi-naidet-vas-po-niku..md)
-* [🔍 OSINT — Начало пути](osint-nachalo-puti/README.md)
+* [🔍 OSINT — Начало пути.](osint-nachalo-puti/README.md)
   * [🤳 Инструменты для анализа аккаунтов в Телеграм](osint-nachalo-puti/instrumenty-dlya-analiza-akkauntov-v-telegram.md)
   * [📱 Как пробивать номер телефона с помощью телеграм бота](osint-nachalo-puti/kak-probivat-nomer-telefona-s-pomoshyu-telegram-bota.md)
   * [🇸🇴 Сервисы и боты для сбора информации в соц-сети ВКонтакте](osint-nachalo-puti/servisy-i-boty-dlya-sbora-informacii-v-soc-seti-vkontakte.md)
