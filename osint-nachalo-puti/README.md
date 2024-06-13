@@ -139,7 +139,7 @@ _Я не стану расписывать возможности каждого
 
 <figure><img src="../.gitbook/assets/brave_V2fZBa4MqM.jpg" alt=""><figcaption><p>Поиск Getcontact в эмуляторе</p></figcaption></figure>
 
-Существует бот, который производит поиск по базе _GetContact_. [**Перейти**.](https://t.me/allcontacts\_real\_bot)\
+Существует бот, который производит поиск по базе _GetContact_. [**Перейти**.](https://t.me/takecontacts_real_bot)\
 _Бесплатно можно совершить 7 запросов, после:_ 10 запросов = 100 руб
 
 <figure><img src="../.gitbook/assets/brave_HxUxqrMCKb.jpg" alt=""><figcaption><p>Telegram бот для поиска по базе Getcontact</p></figcaption></figure>
