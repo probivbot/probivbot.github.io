@@ -8,7 +8,7 @@
   * [🌐 Himera Search — лучшая альтернатива Глазу Бога](readme/himera-search-luchshaya-alternativa-glazu-boga.md)
   * [🤖 Zernerda bot — отличные возможности пробива.](readme/zernerda-bot-otlichnye-vozmozhnosti-probiva..md)
   * [☎️ Бесплатный бот Getcontact](readme/besplatnyi-bot-getcontact.md)
-  * [🦉 SOVA Bot— мощный, модульный, бесплатный OSINT бот.](readme/sova-bot-moshnyi-modulnyi-besplatnyi-osint-bot..md)
+  * [🦉 CyberSec Bot— мощный, модульный, бесплатный OSINT бот.](readme/sova-bot-moshnyi-modulnyi-besplatnyi-osint-bot..md)
   * [🚗 Автограм — "пробить" автомобиль и попутно заработать?!](readme/avtogram-probit-avtomobil-i-poputno-zarabotat.md)
   * [🚘 GTA Search он же GTA bot — коллективный бот пробива.](readme/gta-search-on-zhe-gta-bot-kollektivnyi-bot-probiva..md)
   * [🦄 Search Universe Bot — ваш незаменимый помощник в поиске информации.](readme/search-universe-bot-vash-nezamenimyi-pomoshnik-v-poiske-informacii..md)
